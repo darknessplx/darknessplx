@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **discord.js , PocketMine-MP**
 
-- 💬 Ask me about **php PocketMine-MP**
+- 💬 Ask me about **PHP PocketMine-MP**
 
 - 📫 How to reach me **DC: darknesspl**
 
